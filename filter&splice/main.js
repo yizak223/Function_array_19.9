@@ -24,3 +24,4 @@ for (let i = 0; i < ARRAY.length; i++) {
     }
 }
 console.log( {ARRAY});
+
