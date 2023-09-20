@@ -27,6 +27,6 @@ console.log({BOOK_ARRAY});
 console.log(BOOK_ARRAY[0].render());
 
 
-BOOK_ARRAY.forEach((book) => {
+BOOK_ARRAY.forEach( book => {
     inSell.innerHTML+=book.render()
 });
