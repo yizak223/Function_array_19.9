@@ -26,3 +26,9 @@ let NEW_NUM_ARRAY=NUM_ARRAY.map((num)=>
 NEW_NUM_ARRAY=NEW_NUM_ARRAY.join(' ');
 container.innerHTML+=`${NEW_NUM_ARRAY}`
 
+const unsortArray=[66,4,22,54,12,54,9]
+
+
+// for (const iterator of object) {
+    
+// }
